@@ -1,1 +1,1 @@
-puts "Hello Sam"s
+puts "Hello Sam"
